@@ -1,6 +1,6 @@
 # Functions and Errors - Module 1
 
-This Solidity program is a simple "Token Creation" program that demonstrates the transaction of the tokens with the addresses in ETH.
+This Solidity program is a simple "Functions and Errors" program that demonstrates the transaction of the tokens with the addresses in ETH.
 
 ## Description
 
